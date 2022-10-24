@@ -220,7 +220,7 @@
             "desc": "个人博客",
             "icon": {
                 "type": "img",
-                "content": "https://cdn.jsdelivr.net/gh/zhaoze-jpg/Xianqi@main/img/avatar.jpg",
+                "content": "https://s1.ax1x.com/2022/10/24/xRCdvF.png",
                 "bg": "#6b96cf"
             },
             "openMode": "normal",
@@ -233,7 +233,7 @@
                 "y": "y*0.1"
             },
             "version": "1.0.0",
-            "poweredBy": "Luckey",
+            "poweredBy": "chen",
             "resizable": true,
             "single": true,
             "size": {
@@ -241,7 +241,7 @@
                 "width": "x*0.8"
             },
             "title": "个人博客",
-            "url": "http://ze520.cn",
+            "url": "https://tangtangchen.github.io/",
             "customTile": "",
             "urlRandomToken": true
         },
