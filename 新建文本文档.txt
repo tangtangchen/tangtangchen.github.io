@@ -1,0 +1,11 @@
+##进入站点根目录
+cd /usr/local/src/hexo/hanyubolg/
+
+##删除git提交内容文件夹
+rm -rf .deploy_git/
+
+##执行
+git config --global core.autocrlf false
+
+##最后
+hexo clean && hexo g && hexo d
